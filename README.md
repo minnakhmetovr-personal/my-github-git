@@ -12,9 +12,9 @@ Initialization of a new local repository <br />
 `git init`<br />
 
 Staging the files <br />
-`git add file1`                     #Track a single file <br />
-`git add file1 file2`               #Track multiple files separated with space <br />
-`it add .`                          #Track all files <br />
+`git add file1` *Tabspace* #Track a single file <br />
+`git add file1 file2` *Tabspace* #Track multiple files separated with space <br />
+`it add .` *Tabspace* #Track all files <br />
 
 Unstaging the files <br />
 `git restore --staged file1` <br />
