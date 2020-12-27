@@ -6,7 +6,6 @@
 **Handling end of line character ["true" for Windows; "input" for linux]**
 `git config --global core.autocrlf true`
 
-
 ## Working with a repository
 
 **Initialization of a new local repository**
