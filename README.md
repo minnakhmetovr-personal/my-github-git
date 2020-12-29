@@ -58,6 +58,7 @@ Push <br />
 `git push origin master`                    #Push to remote master <br />
 `git push origin feature/awsmsp-001`        #Push to remote branch <br />
 `git push https://github.com/a.git master`  #Remote repo address and branch to push to <br />
+`git push --set-upstream origin my-branch`  #Push to a remote branch, creating one first. <br /> 
 
 Configure an alias <br />
 `git remote add origin https://github.com/minnakhmetovr-personal/my-first-repo.git` <br />
