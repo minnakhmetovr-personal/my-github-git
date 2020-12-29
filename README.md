@@ -60,6 +60,9 @@ Push <br />
 `git push https://github.com/a.git master`  #Remote repo address and branch to push to <br />
 `git push --set-upstream origin my-branch`  #Push to a remote branch, creating one first. <br /> 
 
+Pull <br />
+`git pull`                                  #Pull remote changes to a local
+
 Configure an alias <br />
 `git remote add origin https://github.com/minnakhmetovr-personal/my-first-repo.git` <br />
 `git push origin master`                    #Pushing using the alias <br />
